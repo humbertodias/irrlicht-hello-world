@@ -11,6 +11,8 @@ Tested on Ubuntu 19.10
 
 	make run
 
+![](running.png)
+
 # Ref
 
 * [freebeast.zip](https://www.psionicgames.com/downloads/freebeast.zip)
